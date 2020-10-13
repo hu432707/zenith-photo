@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: maxvoltar.photo
-email: tim@maxvoltar.be
+title: ZENITH PHOTO
+email: hhu5895@gmail.com
 author:
-  name: Tim Van Damme
-  email: tim@maxvoltar.be #optional
+  name: ZENITHOFYOU
+  email: hhu5895@gmail.com #optional
   website: https://daohang.ga
 description: >- # this means to ignore newlines until "baseurl:"
   @maxvoltar's minimalistic, self-hosted photo stream.
